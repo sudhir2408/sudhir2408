@@ -1,5 +1,5 @@
 
-![68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966](https://user-images.githubusercontent.com/105916005/196055845-9cf6aa76-4a69-4b06-a7e4-74df754d23d8.gif)
+                       ![68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966](https://user-                         images.githubusercontent.com/105916005/196055845-9cf6aa76-4a69-4b06-a7e4-74df754d23d8.gif)
 
 
                                           Hi 👋, I'm Sudhir Kumar Singh.
@@ -10,7 +10,7 @@
                                        alongside the organization.!
                                        
                                        
- 🌱 I’m currently learning Java Backened Developer
+🌱 I’m currently learning Java Backened Developer
 
 👨‍💻 All of my projects are available at https://github.com/sudhir2408.io/
 
@@ -23,7 +23,7 @@
 ⚡ Fun fact Java Backened Developer
 
 Connect with me:
-https://www.linkedin.com/in/kunal-chandel-5210ba236 kunalchandel101
+https://www.linkedin.com/in/sudhir-singh-1034b6131/
 
 Languages and Tools:
 css3 html5 java javascript mssql mysql oracle
