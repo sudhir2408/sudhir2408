@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sudhir2408
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m sudhir kumar singh
+- 👀 I’m interested t
+- 🌱 I’m currently learning full stack development.
+- 💞️ I’m looking to collaborate on good coders to start my new projects
+- 📫 How to reach me ..just mail me on sudhir.43215@gmail.com
 
 <!---
 sudhir2408/sudhir2408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
