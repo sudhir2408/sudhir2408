@@ -1,6 +1,7 @@
 
 
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/105916005/196056991-ff47e328-3e1d-44de-ab5d-7a4d83de9bd6.gif)
+![2000_600px](https://user-images.githubusercontent.com/105916005/196262541-14dd3ca2-4485-4c4a-a2f3-86fbdad1a996.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Sudhir Kumar Singh</h1>
@@ -10,13 +11,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhir2408" alt="sudhir2408" /></a> </p>
 
+- 🔭 I’m currently working on [APPLE TV CLONE](/somya143/chemical-rake-3857)
+
 - 🌱 I’m currently learning **java Backend from Masai School**
 
 - 👯 I’m looking to collaborate on [ZEE5 TV CLONE](https://github.com/somya143/chemical-rake-3857)
 
 - 👨‍💻 All of my projects are available at [sudhir2408.github.io.in](sudhir2408.github.io.in)
 
-- 💬 Ask me about **Html,CSS,Java script,java,DSA,MYSQl,hibernet,Springboot**
+- 💬 Ask me about **HTML,CSS,Java script,java,DSA,MYSQl,hibernet,Springboot**
 
 - 📫 How to reach me **Sudd.43215@gmail.comsudhir**
 
@@ -27,8 +30,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sudhir-singh-1034b6131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhir-singh-1034b6131" height="30" width="40" /></a>
+<a href="https://fb.com/cool.sudhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cool.sudhir" height="30" width="40" /></a>
 <a href="https://instagram.com/sud.heer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sud.heer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sudd_43215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudd_43215" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user3982tt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3982tt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,8 +46,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhir2408&" alt="sudhir2408" /></p>
 
 
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/105916005/196262705-944cdbb8-cd54-48d9-a437-7c10fa668836.gif)
 
-![68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966](https://user-images.githubusercontent.com/105916005/196056974-b07b79f7-8b82-4c7c-a968-26622783959d.gif)
 
 
 
