@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/sudhir-singh-1034b6131/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhir-singh-1034b6131" height="30" width="80" /></a>
 <a href="https://fb.com/Sudhirsinghcoolest" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cool.sudhir" height="30" width="80" /></a>
 <a href="https://instagram.com/sud.heer24/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sud.heer" height="30" width="80" /></a>
-<a href="https://www.hackerrank.com/@sudd.43215_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudd_43215" height="30" width="80" /></a>
+<a href="https://www.hackerrank.com/@sudd.43215" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudd_43215" height="30" width="80" /></a>
 <a href="https://www.leetcode.com/user3982tt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3982tt" height="30" width="80" /></a>
 </p>
 
