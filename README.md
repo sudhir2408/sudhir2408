@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on [ZEE5 TV CLONE](https://github.com/somya143/chemical-rake-3857)
 
-- 👨‍💻 All of my projects are available at [sudhir2408.github.io]
+- 👨‍💻 All of my projects are available at [https://sudhir2408.github.io/](https://sudhir2408.github.io/)
 
 - 💬 Ask me about **HTML,CSS,Java script,java,DSA,MYSQl,hibernate,Springboot**
 
