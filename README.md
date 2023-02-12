@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Sudd.43215@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ROxeHS78xO0JE3vzJ3_8N5jBHIpv-J66/view?usp=share_link](https://drive.google.com/file/d/1ROxeHS78xO0JE3vzJ3_8N5jBHIpv-J66/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OOV00FDZPEOEgqvmTykoCVpYTIgIR1Ux/view?usp=sharing](https://drive.google.com/file/d/1OOV00FDZPEOEgqvmTykoCVpYTIgIR1Ux/view?usp=sharing)
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
 
 <h3 align="left">Connect with me:</h3>
