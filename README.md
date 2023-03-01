@@ -42,7 +42,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhir2408&" alt="sudhir2408" /></p>
 
 
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/105916005/196262705-944cdbb8-cd54-48d9-a437-7c10fa668836.gif)
+
 
 
 
